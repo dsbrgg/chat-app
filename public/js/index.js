@@ -25,3 +25,4 @@ socket.on('newMessage', function(message) {
 socket.on('disconnect', function() {
 	console.log('Disconnected from server client');
 });
+ 
